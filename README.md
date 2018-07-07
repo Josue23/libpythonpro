@@ -8,6 +8,9 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 [![Build Status](https://travis-ci.org/Josue23/libpythonpro.svg?branch=master)](https://travis-ci.org/Josue23/libpythonpro)
 [![Updates](https://pyup.io/repos/github/Josue23/libpythonpro/shield.svg)](https://pyup.io/repos/github/Josue23/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/Josue23/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/Josue23/libpythonpro/)
+[![codecov](https://codecov.io/gh/Josue23/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/Josue23/libpythonpro)
+
+
 
 Suportada versão 3 de Python
 

@@ -30,8 +30,7 @@ def find_package_data(
     exclude=standard_exclude,
     exclude_directories=standard_exclude_directories,
     only_in_packages=True,
-    show_ignored=False
-):
+    show_ignored=False):
     """
     Return a dictionary suitable for use in ``package_data``
     in a distutils ``setup.py`` file.
@@ -69,7 +68,7 @@ def find_package_data(
                 for pattern in exclude_directories:
                     if (fnmatchcase(name, pattern)
                         or fn.lower() == pattern.lower()):
-                            bad_name = True
+                        bad_name = True
                         if show_ignored:
                             print >> sys.stderr, (
                                 "Directory %s ignored by pattern %s"
